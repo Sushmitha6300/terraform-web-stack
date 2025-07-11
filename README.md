@@ -235,4 +235,5 @@ SSH access to EC2 instances is not exposed in this project.
 ## Author
 
 Sushmitha A
+
 Passionate DevOps learner 
